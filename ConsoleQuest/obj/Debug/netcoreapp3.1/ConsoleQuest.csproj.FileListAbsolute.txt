@@ -1,0 +1,3 @@
+C:\Users\student\Desktop\SampleCode03-main\ConsoleQuest\obj\Debug\netcoreapp3.1\ConsoleQuest.csprojAssemblyReference.cache
+C:\Users\student\Desktop\SampleCode03-main\ConsoleQuest\obj\Debug\netcoreapp3.1\ConsoleQuest.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\SampleCode03-main\ConsoleQuest\obj\Debug\netcoreapp3.1\ConsoleQuest.AssemblyInfo.cs
